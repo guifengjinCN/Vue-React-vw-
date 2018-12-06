@@ -5,7 +5,7 @@
 git clone https://github.com/guifengjinCN/vw-layout.git
 
 # 进入文件目录
-cd ./vue-ve-layout
+cd ./vue-vw-layout
 
 # 安装依赖
 yarn / npm i
