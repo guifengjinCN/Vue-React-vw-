@@ -1,7 +1,7 @@
 ## vue-cli 3移动端vw适配
 
 ```
-# 拉取项目
+# 克隆项目
 git clone https://github.com/guifengjinCN/vw-layout.git
 
 # 进入文件目录
