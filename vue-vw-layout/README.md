@@ -1,6 +1,12 @@
 ## vue-cli 3移动端vw适配
 
 ```
+# 拉取项目
+git clone https://github.com/guifengjinCN/vw-layout.git
+
+# 进入文件目录
+cd ./vue-ve-layout
+
 # 安装依赖
 yarn / npm i
 
@@ -11,9 +17,9 @@ yarn serve / npm run serve
 yarn run build / npm run build
 ```
 
-安装配置 vw
+自己配置
 
-安装 `yarn add postcss-px-to-viewport`，在package.json中，在postcss中添加代码：
+安装 `yarn add postcss-px-to-viewport`，在package.json中，找到postcss并添加如下代码：
 ```
 "postcss": {
     "plugins": {
